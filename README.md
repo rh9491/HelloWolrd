@@ -1,6 +1,5 @@
 # HelloWolrd
-New Experience 
+Apiary 
 
 Hi there,
-This is to show some changes in main file.
-Done.
+This is to show the functionalities in Apiary.
